@@ -27,6 +27,8 @@ Choix technique : Slick2d / Maven.
 
 [Dépot Github](https://github.com/pasterp/kangourou)
 
+V1 : https://github.com/pasterp/kangourou/releases/tag/v1b1
+
 - [Gildas Peneau (@waista)](https://github.com/waista)
 - [William Jedrzejak (@TheWardow)](https://github.com/TheWardow)
 - [Pascal Phélipot (@pasterp)](https://github.com/pasterp)
